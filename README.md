@@ -4,5 +4,7 @@
 <br>
 <br>
 </p>
-<h3>Spacex</h3>
-<p>The SpaceX command makes use of the <a href="https://api.spacexdata.com/">SpaceX API</a>. It shows you how to parse JSON and gives you a command straight out of the box that tells you what the latest launch was.
+<h3>Crypto</h3>
+<p>Type in !coin <coin> to see it's current price and price change over 24 hours. Uses coinmarketcap API.<br>
+<img src="https://i.imgur.com/XebqR0L.png" width="250"/>
+</p>
